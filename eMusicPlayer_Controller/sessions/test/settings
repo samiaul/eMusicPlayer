@@ -1,0 +1,12 @@
+general.date_format = 2
+general.time_format = 2
+general.lang = 'fr'
+schedule.announcement.action = 1
+schedule.announcement.volume = 0.5
+schedule.topofthehour.flag = 3
+schedule.topofthehour.state = false
+schedule.start.action = 2
+schedule.player_lock.action = 2
+schedule.end.action = 3
+schedule.end.fade_time = 5
+schedule.end.wait.action = 2
